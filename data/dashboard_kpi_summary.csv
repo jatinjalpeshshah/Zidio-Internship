@@ -1,0 +1,16 @@
+kpi,value
+total_skus,5000.0
+total_actual_units,1451152.0
+total_forecast_demand,1428009.0
+total_stock_on_hand,452556.0
+total_replenishment_units,1063885.0
+total_excess_inventory_units,88432.0
+sales_value_at_risk,659983337.2
+capital_locked_in_overstock,36236959.08
+average_inventory_risk,26.95
+overall_wape_percent,35.16
+critical_skus,153.0
+high_risk_skus,747.0
+shortage_skus,3967.0
+surplus_skus,1016.0
+balanced_skus,17.0
